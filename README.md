@@ -25,7 +25,7 @@ As time passes, your electricity bill increases, adding pressure to solve each p
 ## 🌐 Play the Game
 
 Play Watt-The-Switch right in your web browser:
-[Play on itch.io](https://saurav-kosti.itch.io/)
+[Play on itch.io](https://saurav-kosti.itch.io/watt-the-switch)
 
 The game is built using Unity WebGL, ensuring you can play it on most modern browsers without any installations.
 
