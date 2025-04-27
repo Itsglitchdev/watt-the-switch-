@@ -1,6 +1,5 @@
 # Watt-The-Switch
 
-![Watt-The-Switch Logo](https://via.placeholder.com/150x150)
 
 ## 💡 About the Game
 
@@ -38,14 +37,10 @@ The game is built using Unity WebGL, ensuring you can play it on most modern bro
 - Humorous and chaotic messages upon completion
 - Brain-teasing puzzle mechanics
 
-## 🖼️ Screenshots
-
-![Gameplay Screenshot 1](https://via.placeholder.com/320x180)
-![Gameplay Screenshot 2](https://via.placeholder.com/320x180)
 
 ## 🔧 Development
 
-This game was developed using Unity. All assets, code, and design were created by me (@ItsGlitchDev).
+This game was developed using Unity.
 
 ## 🤝 Contributing
 
