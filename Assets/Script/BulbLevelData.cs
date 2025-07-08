@@ -13,6 +13,7 @@ public class LevelData
     public BulbState[] bulbs = new BulbState[8];
 }
 
+
 public enum BulbState
 {
     On,
