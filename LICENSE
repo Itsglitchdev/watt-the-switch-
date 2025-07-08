@@ -1,0 +1,69 @@
+# Contributing to Watt-The-Switch
+
+Thank you for your interest in contributing to Watt-The-Switch! This document provides guidelines and instructions for contributing to this project.
+
+## How to Contribute
+
+### Reporting Bugs
+
+If you find a bug in the game, please create an issue on GitHub with the following information:
+- A clear, descriptive title
+- Steps to reproduce the bug
+- Expected behavior
+- Actual behavior
+- Screenshots if applicable
+- Your browser/device information
+
+### Suggesting Features
+
+Have ideas to make Watt-The-Switch even better? Create an issue with:
+- A clear, descriptive title
+- Detailed description of the feature
+- Any relevant mockups or examples
+- Explanation of how this would benefit the game
+
+### Pull Requests
+
+Want to directly contribute code? Great! Here's how:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/amazing-idea`)
+3. Make your changes
+4. Test your changes thoroughly
+5. Commit your changes (`git commit -m 'Add amazing feature'`)
+6. Push to the branch (`git push origin feature/amazing-idea`)
+7. Open a Pull Request
+
+#### Pull Request Guidelines
+
+- Keep PRs focused on a single feature or bug fix
+- Follow existing code style and conventions
+- Include screenshots or GIFs for UI changes
+- Update documentation as needed
+- Test your changes before submitting
+
+## Development Setup
+
+### Prerequisites
+
+- Unity 2021.3 or later (specify your exact Unity version)
+- Basic knowledge of C# and Unity
+
+### Getting Started
+
+1. Fork and clone the repository
+2. Open the project in Unity
+3. (Add any specific setup instructions here)
+
+## Code of Conduct
+
+- Be respectful and inclusive
+- Provide constructive feedback
+- Focus on what is best for the community and the game
+- Show empathy towards other community members
+
+## Questions?
+
+If you have any questions about contributing, feel free to open an issue with your question or contact me directly through GitHub.
+
+Thank you for helping make Watt-The-Switch better!
